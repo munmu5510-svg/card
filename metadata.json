@@ -1,0 +1,7 @@
+{
+  "name": "Générateur de Carte d'Identité IA",
+  "description": "Une application web pour générer des cartes d'identité fictives basées sur une photo, un nom et une nationalité en utilisant l'IA. L'application utilise votre caméra pour capturer une photo de visage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
